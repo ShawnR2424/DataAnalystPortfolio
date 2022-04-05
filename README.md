@@ -1,2 +1,3 @@
-# StockTradingAlgorithm
-This is a simple trading strategy using moving averages on a daily stock chart and is examined for performance on specific tickers.
+# Data Analyst Portfolio
+
+This repository is used to store some projects I have done in pursuit of a career in data analytics. 
